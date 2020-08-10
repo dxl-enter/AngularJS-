@@ -1,0 +1,22 @@
+# angularJs入门
+## angularJs是什么
+### google开源的前端JS结构化框架
+### angularJs特点和优点
+1. 双向数据绑定：
+2. 声明式依赖注入：
+3. 解耦应用逻辑、数据模型和视图：
+4. 完善的页面指令：
+5. 定制表单验证：
+6. Ajax封装：
+### 与jQuery比较
+1. jQuery：JS的函数库
+2. jQuery：封装简单DOM操作
+3. angularJs：JS结构化框架
+4. angularJs：主题不再是DOM，而是页面中的动态数据
+### angularJs能做什么项目
+1. 构建单页面（SPA）web应用或web app应用
+2. 饿了么：https://www.ele.me/home/
+3. 微信网页版：https://wx.qq.com
+4. 知乎周报：https://zhuanlan.zhihu.com/Weekly
+5. 管理后端应用：阿里云、唯品会后端、土豆后台
+## 开发第一个angularJs程序
